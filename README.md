@@ -19,9 +19,13 @@ I am currnetly pursuing Bachlor's in Computer Science.
 I am continually expanding my knowledge in data science and AI through various courses and practical projects.
 
 📬 Get in Touch
-Email: m.faizansajid102418@gmail.com
+
+Email: m.faizansajid102418@gmail.com 
+
 LinkedIn: Muhammad Faizan Sajid
+
 🎉 Fun Fact
+
 I enjoy experimenting with new technologies and continuously learning about the latest advancements in data science and AI.
 <!---
 faizan102418/faizan102418 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
