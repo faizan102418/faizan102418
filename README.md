@@ -57,8 +57,7 @@ CS Graduate · University of Agriculture, Peshawar | Open to freelance projects 
 
 ## 📊 GitHub Stats
 
-![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizan102418&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizan102418&layout=compact&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=faizan102418&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
