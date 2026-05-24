@@ -82,4 +82,4 @@ CS Graduate · University of Agriculture, Peshawar · Open to freelance projects
 
 ---
 
-*CS Graduate · Universit
+*CS Graduate · University of Agriculture, Peshawar · PIAIC*
