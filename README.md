@@ -61,6 +61,14 @@ CS Graduate · University of Agriculture, Peshawar | Open to freelance projects 
 
 ---
 
+## 📊 Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=faizan102418&color=blue&style=flat)
+
+- 🔨 25 repositories and counting
+- 💻 100% Python projects
+- 🌍 Open to remote freelance worldwide
+
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan102418)
