@@ -18,4 +18,4 @@ Backend developer building REST APIs and Django web apps with Python.
 - Open to freelance backend projects
 
 ---
-*CS Student @ University of Agriculture, Peshawar · PIAIC*
+*CS Graduate · University of Agriculture, Peshawar · PIAIC*
