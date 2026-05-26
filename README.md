@@ -67,7 +67,10 @@ CS Graduate · University of Agriculture, Peshawar · Open to freelance projects
 
 ## 📊 GitHub Stats
 
-![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizan102418&show_icons=true&hide_border=true&count_private=true)
+![Commits](https://img.shields.io/github/commit-activity/m/faizan102418/finance-tracker-api?label=Monthly%20Commits&style=flat&color=0e75b6)
+![Last Commit](https://img.shields.io/github/last-commit/faizan102418/finance-tracker-api?style=flat&color=0e75b6)
+![Repo Stars](https://img.shields.io/github/stars/faizan102418/finance-tracker-api?style=flat&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=faizan102418&color=0e75b6&style=flat)
 
 ---
 
