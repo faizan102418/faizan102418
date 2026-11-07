@@ -1,86 +1,25 @@
-![Profile Views](https://komarev.com/ghpvc/?username=faizan102418&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan102418)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.faizansajid102418@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/faizan102418)
-
 # Hi, I'm Faizan 👋
 
-> 🇵🇰 Based in Peshawar, Pakistan · Building backends that work reliably · Available for remote freelance worldwide
+**Junior DevOps candidate | GitHub Actions · Docker · Python**
 
-Backend developer building REST APIs and Django web apps with Python.
-CS Graduate · University of Agriculture, Peshawar · Open to freelance projects 🌍
+I'm a Computer Science graduate based in Peshawar, Pakistan. My background is in Python backend development, and I'm building hands-on experience in deployment automation, Linux operations, and troubleshooting. I'm open to junior DevOps roles.
 
----
+## Featured projects
 
-## 🔧 Tech Stack
+| Project | DevOps evidence |
+| --- | --- |
+| [HighFly Hospitality](https://github.com/faizan102418/highfly-hospitality) | GitHub Actions checks PostgreSQL migrations, runs API tests, builds the frontend, and verifies a database backup and restore. The repo also includes Render environment configuration, readiness checks, and a recovery runbook. |
+| [Centralized Student Information System](https://github.com/faizan102418/Centralized-Student-Information-system) | A containerized FastAPI application with MySQL, persistent volumes, and health-based startup ordering in Docker Compose. |
+| [FlyRank AI Internship](https://github.com/faizan102418/FlyRank-AI-Internship/tree/main/CRUD) | A FastAPI CRUD service packaged with Docker and run alongside PostgreSQL using Compose. |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+**Start with HighFly:** [CI workflow](https://github.com/faizan102418/highfly-hospitality/blob/main/.github/workflows/ci.yml) · [Render configuration](https://github.com/faizan102418/highfly-hospitality/blob/main/render.yaml) · [Recovery runbook](https://github.com/faizan102418/highfly-hospitality/blob/main/docs/operations/offline-deployment-and-recovery.md)
 
----
+## Tools and current focus
 
-## 🔨 Currently Building
+- **Used in projects:** Git, GitHub Actions, Docker, Docker Compose, Python, PostgreSQL, MySQL, and Render deployment configuration.
+- **Practicing in my DevOps bootcamp:** Linux fundamentals, Bash scripting, SSH, networking, CI/CD, and AWS basics.
+- **Next lab:** Use [Finance Tracker API](https://github.com/faizan102418/finance-tracker-api) to practice building and publishing a versioned image, deploying it to a Terraform-managed Linux host, and testing health checks and rollback on a local Kubernetes cluster.
 
-- 🏗️ Expanding **Finance Tracker API** with authentication & deployment
-- 📚 Completing Meta Backend Development Professional Certificate (Coursera)
-- 🌱 Learning: PostgreSQL advanced queries, API deployment on Railway/Render
-- 💼 Open to freelance backend projects — [Let's talk!](mailto:m.faizansajid102418@gmail.com)
+## Connect
 
----
-
-## 🚀 Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Finance Tracker API](https://github.com/faizan102418/finance-tracker-api) | Personal finance REST API with CRUD operations and transaction tracking | Python · Django · DRF |
-| Smart Health Risk Predictor | End-to-end ML app with REST API backend predicting heart disease risk | Python · Scikit-learn · Docker |
-
----
-
-## 💼 Freelance Services
-
-- 🔌 REST API design & development
-- 🌐 Django web app development
-- 🗄️ Database design (PostgreSQL / SQLite)
-- 🤖 AI-integrated backend services
-- 📊 Data pipeline backends
-- 🐍 Python scripting & automation
-
----
-
-## 🏆 Certifications
-
-| Certificate | Issuer | Status |
-|------------|--------|--------|
-| Meta Backend Development Professional | Meta / Coursera | 🔄 In Progress |
-| Machine Learning Specialization | DeepLearning.AI · Stanford (Andrew Ng) | ✅ 2025 |
-| Google Data Analytics Professional | Google / Coursera | ✅ 2025 |
-| RAISE YOUR HACK Hackathon | lablab.ai | ✅ 2025 |
-
----
-
-## 📊 GitHub Stats
-
-![Commits](https://img.shields.io/github/commit-activity/m/faizan102418/finance-tracker-api?label=Monthly%20Commits&style=flat&color=0e75b6)
-![Last Commit](https://img.shields.io/github/last-commit/faizan102418/finance-tracker-api?style=flat&color=0e75b6)
-![Repo Stars](https://img.shields.io/github/stars/faizan102418/finance-tracker-api?style=flat&color=0e75b6)
-![Profile Views](https://komarev.com/ghpvc/?username=faizan102418&color=0e75b6&style=flat)
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan102418)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.faizansajid102418@gmail.com)
-
-💬 Open to freelance backend projects — feel free to reach out!
-
----
-
-*CS Graduate · University of Agriculture, Peshawar · PIAIC*
+[LinkedIn](https://www.linkedin.com/in/faizan102418/) · [Email](mailto:m.faizansajid102418@gmail.com)
