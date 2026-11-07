@@ -1,6 +1,6 @@
 # Hi, I'm Faizan 👋
 
-**Junior DevOps candidate | GitHub Actions · Docker · Python**
+**Junior DevOps Engineer | GitHub Actions · Docker · Python**
 
 I'm a Computer Science graduate based in Peshawar, Pakistan. My background is in Python backend development, and I'm building hands-on experience in deployment automation, Linux operations, and troubleshooting. I'm open to junior DevOps roles.
 
