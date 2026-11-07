@@ -1,25 +1,39 @@
-# Hi, I'm Faizan 👋
+<div align="center">
 
-**Junior DevOps Engineer | GitHub Actions · Docker · Python**
+# Muhammad Faizan Sajid
 
-I'm a Computer Science graduate based in Peshawar, Pakistan. My background is in Python backend development, and I'm building hands-on experience in deployment automation, Linux operations, and troubleshooting. I'm open to junior DevOps roles.
+**DevOps Portfolio · CI/CD · Containers · Deployment Automation**
 
-## Featured projects
+Computer Science graduate in Peshawar, Pakistan · Open to junior DevOps roles
 
-| Project | DevOps evidence |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/faizan102418/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-334155?style=flat-square)](mailto:m.faizansajid102418@gmail.com)
+
+</div>
+
+I bring a Python backend background to DevOps. I’m focused on automating the steps between a code change and a verified deployment, including testing, container builds, health checks, and database recovery.
+
+## Featured project · HighFly Hospitality
+
+A hotel management application with a FastAPI backend, React frontend, and PostgreSQL. The repository shows how application changes are tested and how deployments are checked.
+
+| Area | Repository evidence |
 | --- | --- |
-| [HighFly Hospitality](https://github.com/faizan102418/highfly-hospitality) | GitHub Actions checks PostgreSQL migrations, runs API tests, builds the frontend, and verifies a database backup and restore. The repo also includes Render environment configuration, readiness checks, and a recovery runbook. |
-| [Centralized Student Information System](https://github.com/faizan102418/Centralized-Student-Information-system) | A containerized FastAPI application with MySQL, persistent volumes, and health-based startup ordering in Docker Compose. |
-| [FlyRank AI Internship](https://github.com/faizan102418/FlyRank-AI-Internship/tree/main/CRUD) | A FastAPI CRUD service packaged with Docker and run alongside PostgreSQL using Compose. |
+| **Continuous integration** | GitHub Actions runs API tests, applies PostgreSQL migrations, checks that migrations can be rerun, and builds the frontend. [CI workflow](https://github.com/faizan102418/highfly-hospitality/blob/main/.github/workflows/ci.yml) |
+| **Deployment** | Render configuration defines separate development and staging services and databases. [Deployment configuration](https://github.com/faizan102418/highfly-hospitality/blob/main/render.yaml) |
+| **Readiness and recovery** | A scheduled workflow checks the service readiness endpoint, and CI exercises a PostgreSQL backup-and-restore round trip. [Readiness workflow](https://github.com/faizan102418/highfly-hospitality/blob/main/.github/workflows/production-readiness-smoke.yml) · [Recovery runbook](https://github.com/faizan102418/highfly-hospitality/blob/main/docs/operations/offline-deployment-and-recovery.md) |
 
-**Start with HighFly:** [CI workflow](https://github.com/faizan102418/highfly-hospitality/blob/main/.github/workflows/ci.yml) · [Render configuration](https://github.com/faizan102418/highfly-hospitality/blob/main/render.yaml) · [Recovery runbook](https://github.com/faizan102418/highfly-hospitality/blob/main/docs/operations/offline-deployment-and-recovery.md)
+[Explore HighFly Hospitality →](https://github.com/faizan102418/highfly-hospitality)
 
-## Tools and current focus
+## More project work
 
-- **Used in projects:** Git, GitHub Actions, Docker, Docker Compose, Python, PostgreSQL, MySQL, and Render deployment configuration.
-- **Practicing in my DevOps bootcamp:** Linux fundamentals, Bash scripting, SSH, networking, CI/CD, and AWS basics.
-- **Next lab:** Use [Finance Tracker API](https://github.com/faizan102418/finance-tracker-api) to practice building and publishing a versioned image, deploying it to a Terraform-managed Linux host, and testing health checks and rollback on a local Kubernetes cluster.
+- **[Centralized Student Information System](https://github.com/faizan102418/Centralized-Student-Information-system)** — Docker Compose runs the FastAPI service and MySQL with persistent volumes and health-based startup ordering.
+- **[FlyRank AI Internship](https://github.com/faizan102418/FlyRank-AI-Internship/tree/main/CRUD)** — A containerized FastAPI CRUD service with PostgreSQL and a locked Python dependency set.
 
-## Connect
+## Toolkit
 
-[LinkedIn](https://www.linkedin.com/in/faizan102418/) · [Email](mailto:m.faizansajid102418@gmail.com)
+**Used in projects** · Git · GitHub Actions · Docker · Docker Compose · Python · PostgreSQL · MySQL · Render
+
+**Currently practicing** · Linux administration · Bash · SSH · Networking · AWS fundamentals
+
+**Next lab** · Use the [Finance Tracker API](https://github.com/faizan102418/finance-tracker-api) to practice publishing a versioned Docker image, deploying it to a Terraform-managed Linux VM, and verifying a rollback in a local Kubernetes cluster.
